@@ -1,0 +1,7 @@
+apexcv_pro_resize.a filter=lfs diff=lfs merge=lfs -text
+libacf.a filter=lfs diff=lfs merge=lfs -text
+libapexdrv.a filter=lfs diff=lfs merge=lfs -text
+libicp.a filter=lfs diff=lfs merge=lfs -text
+apexcv_color_conversion.a filter=lfs diff=lfs merge=lfs -text
+apexcv_core.a filter=lfs diff=lfs merge=lfs -text
+apexcv_image_filters.a filter=lfs diff=lfs merge=lfs -text
